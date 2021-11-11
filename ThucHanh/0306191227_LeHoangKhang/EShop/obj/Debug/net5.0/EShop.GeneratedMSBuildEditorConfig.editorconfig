@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = EShop
+build_property.ProjectDir = D:\Hoc_tap\Hoc_Tap_Nam_3_HK1\ASP.NET Core\Tuan5\ThucHanh\0306191227_LeHoangKhang\EShop\
